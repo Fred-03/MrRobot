@@ -1,7 +1,10 @@
 # Eye Mechanism Build Instructions
 
 1. Attach EyelidServoHolder to EyeBase with 3x M2x6mm screws.
-2. Attach 2x JX-PDI-1109MG servos to EyelidServoHolder and EyeBase using 4x M2x6mm screws.
+
+![image](https://github.com/user-attachments/assets/6824ac45-8b81-4c62-8c06-2d169b4a6a4e)
+
+3. Attach 2x JX-PDI-1109MG servos to EyelidServoHolder and EyeBase using 4x M2x6mm screws.
 - set the servos to 90 degrees and then mount the servo horns
 3. Attach 2x JX-PDI-1109MG servos to EyeBase using 4x M2x6mm screws.
 - set the servos to 90 degrees and then mount the servo horns
