@@ -8,3 +8,5 @@ This project aims to capture the process of building a realistic humanoid roboti
 - can hear
 - can speak
 - can sense (visual and audio)
+
+I based this project off the open-source work of Gael Langevin, the designer of InMoov.
