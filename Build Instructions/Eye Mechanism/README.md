@@ -5,9 +5,9 @@
 ![image](https://github.com/user-attachments/assets/6824ac45-8b81-4c62-8c06-2d169b4a6a4e)
 
 3. Attach 2x JX-PDI-1109MG servos to EyelidServoHolder and EyeBase using 4x M2x6mm screws.
-- set the servos to 90 degrees and then mount the servo horns
+- set the servos to 90 degrees (Use MrRobotEyeServoSet90.ino) and then mount the servo horns
 3. Attach 2x JX-PDI-1109MG servos to EyeBase using 4x M2x6mm screws.
-- set the servos to 90 degrees and then mount the servo horns
+- set the servos to 90 degrees (Use MrRobotEyeServoSet90.ino) and then mount the servo horns
 4. Attach OuterEyelidHolder to EyeBase with 3x M2x6mm screws.
 5. Attach EyeHolder to EyeBase with an M2x8mm screw.
 6. Attach the SmallPivot to one of the EyeConnectors with a countersunk M2x4mm screw (or use a small servo screw).
